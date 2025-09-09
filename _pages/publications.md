@@ -3,27 +3,21 @@ title: "Publications"
 permalink: /publications/
 ---
 
-**Selected publications and manuscripts**.
+**Accepted / In press**
+- Cheng, Y., Xiao, X., Jackson, D., Shah, S. A., Abdus-Sabur, F., Hira, A., **Zhang, H.**, & Barnett, M. (2024). *Competent but anxious Smart Greenhouse Makers*. **Journal of Science Education and Technology**.  
+- Su, B., Xiao, X., **Cheng, Y.**, Liu, C., & Yang, C. (2024). *Trajectories of depressive symptom among college students in China during COVID-19*. **Suicide and Life-Threatening Behavior**.
 
-**Accepted / Published**
-- Xiao, X., Rabe-Hesketh, S., & Skrondal, A. (2025). *Bayesian identification and estimation of growth mixture models*. [**Psychometrika**](https://www.cambridge.org/core/journals/psychometrika/article/bayesian-identification-and-estimation-of-growth-mixture-models/746CC431BCFE6303D9710DAC811537F8#metrics).
-- Xue, M., Liu, Y., Xiao, X., & Wilson, M. (2025). *Automatic prompt engineering for automatic scoring*. **Journal of Educational Measurement**.  
-- Xiao, X.*, Patz, R., & Wilson, M. (2025). *Integration of machine learning and human rater scores with Many‑Facet Rasch Model*. **BJM&SP** (accepted with minor revisions).  
-- Su, B., Xiao, X.*, Cheng, Y., Liu, C., & Yang, C. (2025). *Trajectories of depressive symptom among college students in China during COVID‑19*. **Suicide and Life‑Threatening Behavior** (in press).  
-- Cheng, Y., Xiao, X., Jackson, D., Shah, S. A., Abdus‑Sabur, F., Hira, A., ... & Barnett, M. (2025). *Competent but Anxious Smart Greenhouse Makers*. **J. Sci. Educ. & Tech.**  
-- Wang, F., Zhu, X., Pi, L., Xiao, X., & Zhang, J. (2024). *Patterns of participation and performance in English online education*. **Education and Information Technologies**, 29, 15595–15619.  
-- Ma, J., Shen, Z., Wang, N., Xiao, X., & Zhang, J. (2023). *Developmental differences in children’s adaptation to vehicle distance and speed*. **Journal of Safety Research**, 88, 261–274.  
-- Zhang, J., Liu, F., Chen, Z., Yu, Z., Xiao, X., Shi, L., & Guo, Z. (2023). *A multi‑level analysis on the causes of train‑pedestrian collisions*. **Accident Analysis & Prevention**, 193, 107332.  
-- Xiao, X.*, Xue, M., & Cheng, Y. (2023). *Bayesian partial credit model in science education*. In **Advances in Applications of Rasch Measurement in Science Education** (Springer).  
-- Xiao, X., Ji, F., & Rabe‑Hesketh, S. (2022). *Introduction to multilevel logistic regression using rstanarm*. **Stan Case Study**.  
-- Xiao, X.* & Cheng, Y. (2021). *Movie title keywords: A text mining and EFA*. **J. Risk and Financial Management**, 14(2).  
-- Kim, J. M., Lee, N., & Xiao, X. (2019). *Directional dependence between major cities in China*. **PLOS ONE**, 14(3).  
+**Selected journal articles**
+- Zhang, H., Lee, I., Ali, S., DiPaola, D., **Cheng, Y.**, & Breazeal, C. (2023). *Integrating ethics and career futures ...*. **Int’l Journal of AI in Education**, 1–35.  
+- Jackson, D., **Cheng, Y.**, Meng, Q., & Xu, Y. (2022). *“Smart” greenhouses and pluridisciplinary spaces ...*. **DISE Research**, 4(1).  
+- Jackson, D., & **Cheng, Y.** (2021). *Maintaining pluralism when embedding CT ...*. **Computer Science Education**.  
+- Xiao, X., & **Cheng, Y.** (2021). *Movie title keywords ...*. **JRFM**, 14(2).
 
-**Submitted / In review**
-- Li, Z. & Xiao, X. (2025). *Which Countries are More Meritocratic?*  
-- Xue, M., Xiao, X., Liu, Y., & Wilson, M. (2025). *On the Consistency of Automatic Scoring with LLMs*.  
-- Xue, M., Xiao, X., Liu, Y., & Wilson, M. (2025). *Extract Information from Process Data Using the Transformer*.  
-- Xiao, X. & Cheng, Y. (2024). *Different Genders, Different Paths to Self‑Efficacy*.  
-- Xiao, X., Li, Z., Liu, Y., & Cheng, Y. (2024). *Identifying sensitive periods for the impact of physical abuse on psychopathology symptoms*.  
-
-*Corresponding author indicated by* **\***.
+**Under review / revised**
+- **Cheng, Y.**, & Xiao, X. (2024). *When non-discriminative items reveal misconceptions about AI*.  
+- **Cheng, Y.**, & Xiao, X. (2024). *What AI literacy, what AI concepts: Analysis of an AI concept inventory*.  
+- Gu, L., **Cheng, Y.**, Yuan, J., & Wang, C. (2024). *Is psychological help a proprietary ...*.  
+- Wang, T., Gu, L., & **Cheng, Y.** (2024). *Multiple institutional logics of talent cultivation ...*.  
+- Xiao, X., & **Cheng, Y.** (2024). *Different genders, different paths to self-efficacy*.  
+- Xiao, X., & **Cheng, Y.** (2024). *Tutorial on Bayesian GMM ...*.  
+- Xiao, X., Li, Z., Liu, Y., & **Cheng, Y.** (2024). *Identifying sensitive periods ...*.
