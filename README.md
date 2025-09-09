@@ -3,7 +3,7 @@
 Full-featured Jekyll site for GitHub Pages using **Minimal Mistakes**.
 
 ## Deploy (no local install)
-1. Create a public repo named `DoriaXiao.github.io`.
+1. Create a public repo named `YihongCheng.github.io`.
 2. Upload all files in this folder to the repo root and commit to `main`.
 3. In **Settings → Pages**, choose Branch = `main`, Folder = `/ (root)`.
 4. Edit `_config.yml` (email, Scholar/ORCID, links) and pages in `_pages/`.
