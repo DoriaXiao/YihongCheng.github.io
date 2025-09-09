@@ -1,4 +1,4 @@
-# Xingyao (Doria) Xiao — Academic Website
+# Yihong Cheng — Academic Website
 
 Full-featured Jekyll site for GitHub Pages using **Minimal Mistakes**.
 
