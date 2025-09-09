@@ -2,13 +2,32 @@
 title: "Talks & Presentations"
 permalink: /talks/
 ---
-- **BEAR Seminar — *When Growth Mixture Models Break: Identifiability Failures and Misleading Model Evaluation***  
-  UC Berkeley · September 9, 2025 · 2:00 p.m.  
-  [📄 Read blog post](/blog/bear-seminar-gmm-break/) · [🔗 Event details](https://events.berkeley.edu/educ/event/304585-bear-seminar-when-growth-mixture-models-break)
 
-**NCME (2025, 2024, 2023, 2022)** — Topics include integrating ML and human rater scores (MFRM), ChatGPT transadaptation, Bayesian comparison of GMMs, and growth mixture class enumeration.  
-**IMPS (2025, 2023)** — Model evaluation failures and diagnostics in GMM; Bayesian identification and local identifiability.  
-**RSS 2024** — Bayesian approaches to identifiability and estimation of GMM.  
-**StanCon 2024** — Diagnostics and identification for GMM in Stan.  
-**M3 2023** — Marginal likelihood for GMM; dynamic process heterogeneity.  
-**Other** — AEFP 2022; SRCoS 2019; NEERO 2019; URS 2018.
+### Recent Presentations
+
+- **Excellence Engineer Competencies and AI Literacy in STEM Education**  
+  Institute of Education, Tsinghua University · 2024  
+  Invited talk on integrating AI-literacy assessments and competency-based frameworks into undergraduate STEM education.
+
+- **Smart Greenhouse: Project-Based Learning and Computational Thinking Assessment**  
+  Boston College · 2022  
+  Seminar presentation on the design and evaluation of a beginner-friendly project-based learning curriculum blending science and computing.
+
+- **DAILy (Digital/AI Literacy): Curriculum and Assessment Design**  
+  MIT STEP Lab · 2021  
+  Presented findings from curriculum design and teacher professional development on AI literacy across U.S. school districts.
+
+---
+
+### Conference Contributions
+
+- **Competent but Anxious Smart Greenhouse Makers**  
+  Poster at the *Journal of Science Education and Technology* launch event · 2024  
+
+- **Trajectories of Depressive Symptoms among College Students in China during COVID-19**  
+  Co-author presentation at *Suicide and Life-Threatening Behavior* research forum · 2024  
+
+---
+
+This page highlights selected talks and presentations.  
+For a full record, please see my [CV](/cv/).
