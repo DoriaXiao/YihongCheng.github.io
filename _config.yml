@@ -2,12 +2,17 @@ title: "Yihong (程奕泓) Cheng"
 name: "Yihong Cheng"
 description: "STEM education • Curriculum & assessment • Educational measurement"
 
-url: "https://<yihong-username>.github.io"
+# Use the real URL (lowercase is fine)
+url: "https://yihongcheng.github.io"
 baseurl: ""
-include: [_pages]
+include:
+  - _pages
+
 future: true
 timezone: Asia/Shanghai
 
+# Use Minimal Mistakes via remote_theme (disable default theme)
+theme: null
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
@@ -19,7 +24,6 @@ plugins:
   - jekyll-include-cache
   - jemoji
   - jekyll-remote-theme
-
 author:
   name: "Yihong (程奕泓) Cheng"
   avatar: "/assets/img/profile.jpg"     # add Yihong's headshot here
