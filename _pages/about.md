@@ -3,8 +3,6 @@ title: "About"
 permalink: /about/
 ---
 
-I am a [Postdoctoral Scholar at Stanford University](https://profiles.stanford.edu/Doria_Xiao), working on the [**Learning Variability Network Exchange (LEVANTE)**](https://levante-network.org/) with Prof. **Ben Domingue** and collaborators. My research focuses on **psychometrics** and **Bayesian statistical modeling**, with interests in **measurement invariance** and the **integration of AI into educational and psychometric practice**.  
+I am a **Postdoctoral Fellow (Shuimu Scholar)** at the **Institute of Education, Tsinghua University**. My work centers on **STEM education**, **curriculum design & assessment**, and **educational measurement**. I collaborate with schools and research groups to co-design learning experiences and develop/validate measurement tools, including AI-literacy assessments and project-based learning instruments.
 
-My dissertation, *Bayesian Identification, Estimation, and Evaluation of Growth Mixture Models*, advanced new methods for addressing **identifiability** and **model evaluation**, offering both theoretical diagnostics and practical guidance for applied researchers.  
-
-Previously, I earned my [Ph.D. in Social Research Methodologies at UC Berkeley](https://bse.berkeley.edu/xingyao-xiao). I also hold an **M.S. in Applied Statistics and Psychometrics** from Boston College and a **B.A. in Statistics** from the University of Minnesota, Morris.
+Previously, I earned a **Ph.D. in Education** from **Boston College (Lynch)**, an **M.Ed.** and **B.S.** from the **University of Minnesota – Twin Cities**.
