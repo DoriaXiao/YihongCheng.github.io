@@ -1,0 +1,86 @@
+title: "Xingyao (Doria) Xiao"
+name: "Xingyao (Doria) Xiao"
+description: "Postdoctoral Fellow at Stanford | Psychometrics, Bayesian modeling, AI-integrated assessment"
+
+# Site URL
+url: "https://DoriaXiao.github.io"
+baseurl: ""
+include:
+  - _pages
+
+# Show upcoming posts (e.g., talks) before the date occurs
+future: true
+timezone: America/Los_Angeles
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-remote-theme
+
+# Author profile (sidebar)
+author:
+  name: "Xingyao (Doria) Xiao"
+  avatar: "/assets/img/profile.jpg"   # ensure this file exists
+  bio: "Postdoctoral Fellow at Stanford. Psychometrics, Bayesian modeling, and AI-integrated assessment for fair, interpretable measurement."
+  location: "Stanford, CA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:xiaoxg@berkeley.edu"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar ai-fw"
+      url: "https://scholar.google.com/citations?user=Alm4A50AAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "ai ai-orcid ai-fw"
+      url: "https://orcid.org/0000-0001-8430-0438"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/DoriaXiao"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/xingyao-doria-xiao-565b25170/"
+    - label: "Stanford Profile"
+      icon: "fas fa-fw fa-university"
+      url: "https://profiles.stanford.edu/Doria_Xiao"
+    - label: "CV (PDF)"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/assets/cv/Xingyao_CV_Sept..pdf"
+
+# Collections
+collections:
+  posts:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      share: true
+      comments: false
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+
+# Exclusions
+exclude:
+  - "node_modules"
+  - "vendor"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE"
