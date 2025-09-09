@@ -5,11 +5,11 @@ author_profile: true
 classes: wide
 ---
 
-Welcome! I’m **Xingyao (Doria) Xiao**, a postdoctoral fellow at Stanford University.  
-My work spans **psychometrics**, **Bayesian growth mixture models**, and **AI-integrated assessment**.  
-I build methods that make measurement fair, interpretable, and useful for real educational decisions.  
+Welcome! I’m **Yihong (程奕泓) Cheng**, a **Postdoctoral Fellow (Shuimu Scholar)** at the *Institute of Education, Tsinghua University*.  
+My research and teaching focus on **STEM education**, **curriculum design & assessment**, and **educational measurement**.  
+I collaborate with schools and research groups to design engaging learning experiences and to develop and validate assessment tools — from AI literacy instruments to project-based learning evaluations.  
 
-> *Psychometrics • Bayesian Modeling • AI in Education*
+> *STEM Education • Curriculum & Assessment • Educational Measurement*
 
 ---
 
@@ -23,12 +23,11 @@ I build methods that make measurement fair, interpretable, and useful for real e
 
 ### Spotlight
 📰 **New Publication**  
-*Bayesian identification and estimation of growth mixture models*  
-Now published in [**Psychometrika**](https://www.cambridge.org/core/journals/psychometrika/article/bayesian-identification-and-estimation-of-growth-mixture-models/746CC431BCFE6303D9710DAC811537F8#metrics).
+*Competent but anxious Smart Greenhouse Makers: Findings from a physical computing project* — accepted in the **Journal of Science Education and Technology**.
 
 ---
 
 ### Quick Links
-[📄 Download CV](/assets/cv/Xingyao_CV_Sept..pdf){: .btn }  
-[🎓 Google Scholar](https://scholar.google.com/citations?user=Alm4A50AAAAJ&hl=en){: .btn .btn--primary }  
-[🔗 Stanford Profile](https://profiles.stanford.edu/Doria_Xiao){: .btn }
+[📄 Download CV](/assets/cv/Yihong_Cheng_CV.pdf){: .btn }  
+[🎓 Google Scholar](https://scholar.google.com/citations?user=gYp1Q4IAAAAJ&hl=en){: .btn .btn--primary }  
+[✉️ Email](mailto:cheng.yihong.z@gmail.com){: .btn }
