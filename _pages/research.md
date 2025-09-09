@@ -3,10 +3,12 @@ title: "Research"
 permalink: /research/
 ---
 
-### Current directions
-- **Fairness and calibration in CAT.** Mitigating the impact of calibration error via *rescoring* and robust item selection/stopping rules.
-- **AI‑assisted scoring and reliability.** Integrating LLM raters with human ratings using **MFRM** and ensemble strategies.
-- **Growth mixture modeling.** Identification, estimation stability, and principled evaluation (marginal likelihood; diagnostics).
+**Focus areas**
+- **STEM education & curriculum design** — co-designing project-based learning (PBL) experiences that integrate science and computing.
+- **Assessment & measurement** — building and validating instruments for **AI literacy** and **computational thinking**; examining learning processes and outcomes.
+- **Educational measurement methods** — validity studies, reliability evidence, and cross-context adaptation of instruments.
 
-### Methods & tools
-Bayesian and frequentist latent variable models; simulation frameworks for CAT & GMM; DIF and cross‑cultural invariance; process‑data modeling; R/Python/Stan; Quarto; GitHub‑first workflows.
+**Ongoing lines**
+- **Excellence Engineer competencies** (Tsinghua): developing assessment tools for professional competencies.
+- **DAILy: Digital/AI Literacy** (MIT STEP Lab): curriculum design, teacher PD, and AI-literacy instrument development/validation.
+- **Smart Greenhouse** (Boston College): beginner-friendly PBL integrating environmental science and computing; CT assessment work.
